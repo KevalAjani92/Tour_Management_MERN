@@ -6,13 +6,13 @@ A web application that helps to book various tour and give review about tours.Ad
 ## Installation
 To Run Project In Your Machine
 1. cd backend
-   npm install
-   nodemon index.js
+   1. npm install
+   2. nodemon index.js
 
 2. cd..
 3. cd frontend
-   npm install
-   npm run dev   
+   1. npm install
+   2. npm run dev   
 
 
 ## Features
