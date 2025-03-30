@@ -23,3 +23,7 @@ To Run Project In Your Machine
 - Admin can add,update and delete any tour.
 - Admin Can Upload or Modify the tour photo.
 - Currently Photos are stored in public folder of project in pc(locally).
+
+
+## Note
+- Currently Admin Panel is visible to all user (Authorization is pending).
